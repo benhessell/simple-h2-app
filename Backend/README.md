@@ -6,7 +6,7 @@ Run ./gradlew bootRun, on first time will take longer as it downloads dependenci
 
 ### Scripts
 - ./gradlew bootRun -> starts local server
-- ./gradlew build -> builds front end
+- ./gradlew build -> builds back end
 
 ### TroubleShoot
 
